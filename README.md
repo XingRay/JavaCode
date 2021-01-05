@@ -1,2 +1,2 @@
 # JavaCode
-modle for java code
+model for java code
